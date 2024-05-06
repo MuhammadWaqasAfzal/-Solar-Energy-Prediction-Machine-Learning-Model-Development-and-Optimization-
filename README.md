@@ -13,7 +13,7 @@ This repository contains code for developing a machine-learning model to predict
 
 1. **Clone the Repository:**
    ```sh
-   git clone <repository_url>
+   git clone https://github.com/MuhammadWaqasAfzal/-Solar-Energy-Prediction-Machine-Learning-Model-Development-and-Optimization-
 
 2. **Open the Code File:**
    ```sh
